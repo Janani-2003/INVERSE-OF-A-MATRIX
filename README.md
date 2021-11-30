@@ -16,10 +16,10 @@ import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inv=np.linalg.inv(A)
 print(inv)
-
 ```
 ## Output:
 ![Git log](.//invofmatrix.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
